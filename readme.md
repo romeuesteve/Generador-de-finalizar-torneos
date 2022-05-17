@@ -1,9 +1,9 @@
-#Generador de finalizar torneos
+# Generador de finalizar torneos
 ```
 g++ -o generator.exe generator.cc
 ```
 
-##Uso
+## Uso
 ```
 ./generator.exe > output.txt
 ```
